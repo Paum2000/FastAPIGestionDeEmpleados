@@ -1,0 +1,5 @@
+fastapi[standard]
+sqlmodel
+pydantic_settings
+uvicorn
+psycopg2-binary
